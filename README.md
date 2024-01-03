@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving my skills in **React and JavaScript**
 - 🤝 I'm looking for opportunity to broaden my knowledge and learn new skills
-- 📝 My goal is to become full stack developer 
+- 📝 My goal is to become a full stack developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
