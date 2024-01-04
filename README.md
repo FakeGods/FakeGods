@@ -4,7 +4,6 @@
 - 🌱 I’m currently improving my skills in **React and JavaScript**
 - 🤝 I'm looking for opportunity to broaden my knowledge and learn new skills
 - 📝 My goal is to become a full stack developer 
-aWADqawdawdad
 <h3 align="left">Connect with me: w.leszkowicz99@gmail.com</h3>
 <p align="left">
 </p>
